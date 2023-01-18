@@ -1,4 +1,4 @@
-# Business-AnalyticsRepositorio de Proyectos del Master en Business Analytics
+# Repositorio de Proyectos del Master en Business Analytics
 ## Introduction
 
 Este repositorio contiene los proyectos desarrollados por el alumno Iván Reyes Laguna durante el **Master en Business Analytics de la Universidad Eurpea de Madrid**. El objetivo del repositorio es mostrar las técnicas y habilidades adquiridas a través de los proyectos realizados en las asignaturas del programa.
