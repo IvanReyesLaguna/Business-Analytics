@@ -1,0 +1,44 @@
+---
+title: "Ejercicio Markdown"
+author: "Ivan Reyes"
+date: "2023-01-15"
+output: html_document
+---
+
+# Analisis base de datos "mtcars"
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introducción
+
+En este ejercicio utilizaremos la base de datos "mtcars" para realizar un análisis breve de los datos. La base de datos contiene información sobre el rendimiento de diferentes automóviles, como la velocidad máxima y el tiempo de aceleración. Utilizaremos R markdown para mostrar los resultados del análisis y **visualizaciones en un documento fácil de leer**. Analizaremos las relaciones entre las diferentes variables y trataremos de extraer conclusiones sobre el rendimiento de los automóviles en la base de datos.
+
+## Analisis
+### Primero, cargamos la base de datos en R
+```{r mtcars data, eval = FALSE}
+data("mtcars")
+```
+
+### Podemos ver las primeras filas de la base de datos para tener una idea de su contenido
+```{r mtcars filas, echo=FALSE}
+head(mtcars)
+```
+
+### Una visión general de las variables numéricas en un conjunto de datos
+Al aplicar la función summary() a la base de datos "mtcars", obtendremos un resumen estadístico de las variables numéricas en ella. Esto incluirá información como la media, desviación estándar, valor mínimo, valor máximo, etc. para cada una de las variables numéricas en la base de datos.
+```{r cars estadisticas, fig.cap="Estadisticas"}
+summary(mtcars)
+```
+
+### Plot relacion de variables 
+Un gráfico de dispersión en el cual el eje x representa el peso del automóvil y el eje y representa la velocidad máxima. Los puntos en el gráfico representan los automóviles y su relación entre el peso y la velocidad máxima.
+```{r cars plot, echo=FALSE, warning = FALSE}
+plot(mtcars$wt, mtcars$mpg, xlab = "Weight", ylab = "Miles per Gallon", main = "Weight vs Miles per Gallon")
+
+```
+
+## Conclusiones
+
++  Hay una relación negativa entre el peso del automóvil y la velocidad máxima, ya que a medida que el peso del automóvil aumenta, la velocidad máxima disminuye.
++  La mayoría de los automóviles en la base de datos tienen entre 6 y 8 cilindros, según el gráfico de barras de la cantidad de cilindros.
