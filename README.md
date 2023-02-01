@@ -4,12 +4,12 @@
 Este repositorio contiene los proyectos desarrollados por el alumno Iván Reyes Laguna durante el **Master en Business Analytics de la Universidad Eurpea de Madrid**. El objetivo del repositorio es mostrar las técnicas y habilidades adquiridas a través de los proyectos realizados en las asignaturas del programa.
 
 ## Contenido
-+ Proyecto 1: Se resuelve una serie de problemas planteados que debemos dar la mejor solución posible en **Python base** y sobre dataframes en los que practicar con los paquetes **numpy y panda**.
++ PYthon: Se resuelve una serie de problemas planteados que debemos dar la mejor solución posible en **Python base** y sobre dataframes en los que practicar con los paquetes **numpy y panda**. Proyectos: 
   + REYES_IVAN_ACTIVIDAD01
   + REYES_IVAN_ACTIVIDAD02
-+ Proyecto 2: **Minería de datos** en grandes cantidades de datos(Big data) extraídos mediante solicitud al servidor del Ministerio de Industria Big data soportado por el **framework Hadoop** y usando **R** como lenguaje de programación para el trato de datos.
++ Minería de datos: Grandes cantidades de datos(Big data) extraídos mediante solicitud al servidor del Ministerio de Industria Big data soportado por el **framework Hadoop** y usando **R** como lenguaje de programación para el trato de datos.
   + informe_gasolineras_222c2974
-+ Proyecto 3: Se debe **importar el set de datos** MovieLens en **MySQL workbench** y debemos realizar las **querys usando subqueries o joins** cuando sea necesario para  responder  a  las  cuestiones  planteadas  en cada uno de los dos scripts proporcionados:
++ SQL: Relación de base de dato, para la cual se debe **importar el set de datos** MovieLens en **MySQL workbench** y debemos realizar las **querys usando subqueries o joins** cuando sea necesario para  responder  a  las  cuestiones  planteadas  en cada uno de los dos scripts proporcionados:
   + 1_Ejercicio_Final_lectura_ficheros 
   + 2_Ejercicio_Final_escritura_ficheros 
 Cada proyecto incluye una breve descripción, una lista de técnicas y herramientas utilizadas y un enlace al código fuente.
