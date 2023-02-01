@@ -4,7 +4,7 @@
 Este repositorio contiene los proyectos desarrollados por el alumno Iván Reyes Laguna durante el **Master en Business Analytics de la Universidad Eurpea de Madrid**. El objetivo del repositorio es mostrar las técnicas y habilidades adquiridas a través de los proyectos realizados en las asignaturas del programa.
 
 ## Contenido
-+ PYthon: Se resuelve una serie de problemas planteados que debemos dar la mejor solución posible en **Python base** y sobre dataframes en los que practicar con los paquetes **numpy y panda**. Proyectos: 
++ Python: Se resuelve una serie de problemas planteados que debemos dar la mejor solución posible en **Python base** y sobre dataframes en los que practicar con los paquetes **numpy y panda**. Proyectos: 
   + REYES_IVAN_ACTIVIDAD01
   + REYES_IVAN_ACTIVIDAD02
 + Minería de datos: Grandes cantidades de datos(Big data) extraídos mediante solicitud al servidor del Ministerio de Industria Big data soportado por el **framework Hadoop** y usando **R** como lenguaje de programación para el trato de datos.
