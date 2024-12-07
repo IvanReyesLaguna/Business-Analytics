@@ -1,4 +1,4 @@
-/************/
+l/************/
 /* QUERYING */
 /************/
 /* No hace falta usar joins en esta bloque */
@@ -14,7 +14,7 @@ LIMIT 0,100;
 SELECT title, release_date
 FROM movies;
 
-/* EJ3-Muestra el título y la URL de todas las peículas, renombrando el campo URS por "resumen" */
+/* EJ3-Muestra el título y la URL de todas las películas, renombrando el campo URS por "resumen" */
 SELECT title, imdb_url AS resumen
 FROM movies;
 
