@@ -3,6 +3,8 @@ layout: default
 title: Contacto
 ---
 
-Puedes contactarme a través de email@example.com
+## Contacto
 
-[Volver al inicio](/)
+Puedes contactarme a través de ivan.reyes.laguna22@gmail.com
+
+[Volver al inicio]({{ '/index.html' | prepend: site.baseurl }}){: .button }
