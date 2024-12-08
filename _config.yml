@@ -2,8 +2,8 @@ title: Mi Portfolio
 email: ivan.reyes.laguna22@gmail.com
 description: 
   Este es mi portfolio personal donde muestro proyectos y trabajos destacados.
-baseurl: ""
-url: "https://ivanreyeslaguna.github.io/Business-Analytics/"
+baseurl: "/Business-Analytics"
+url: "https://ivanreyeslaguna.github.io"
 LinkedIn : ivanreyeslaguna
 github_username:  IvanReyesLaguna
 
