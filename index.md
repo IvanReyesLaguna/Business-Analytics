@@ -4,7 +4,7 @@ layout: default
 title: Inicio
 ---
 
-![Imagen de Cabecera](/assets/header-image.jpg)
+![Imagen de Cabecera](/Business-Analytics/assets/header-image.jpg)
 
 # Bienvenido a Mi Portfolio como Profesional de Análisis de Datos
 
