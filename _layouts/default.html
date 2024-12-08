@@ -1,13 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/styles.css' | prepend: site.baseurl }}">
-
+    <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
-    {{ content }}
+    <header>
+        <h1>{{ site.title }}</h1>
+    </header>
+    <nav>
+        <a href="/">Inicio</a>
+        <a href="/about.html">Acerca de</a>
+        <a href="/projects.html">Proyectos</a>
+        <a href="/contact.html">Contacto</a>
+    </nav>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        &copy; {{ site.time | date: '%Y' }} Todos los derechos reservados.
+    </footer>
 </body>
 </html>
+
