@@ -3,7 +3,14 @@
 layout: default
 title: Inicio
 ---
-![Imagen de Cabecera]({{ '/assets/header-image.jpg' | prepend: site.baseurl }})
+
+<div class="header-image">
+    ![Imagen de Cabecera](/Business-Analytics/assets/header-image.jpg)
+    <div class="header-overlay">
+        <h1>Bienvenido a Mi Portfolio de Análisis de Datos</h1>
+        <a href="/Business-Analytics/projects" class="button">Ver Proyectos</a>
+    </div>
+</div>
 
 # Bienvenido a Mi Portfolio como Profesional de Análisis de Datos
 
