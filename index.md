@@ -1,16 +1,7 @@
 ---
-
 layout: default
 title: Inicio
 ---
-
-<div class="header-image">
-    ![Imagen de Cabecera](/Business-Analytics/assets/header-image.jpg)
-    <div class="header-overlay">
-        <h1>Bienvenido a Mi Portfolio de Análisis de Datos</h1>
-        <a href="/Business-Analytics/projects" class="button">Ver Proyectos</a>
-    </div>
-</div>
 
 # Bienvenido a Mi Portfolio como Profesional de Análisis de Datos
 
@@ -23,7 +14,4 @@ title: Inicio
 - **Machine Learning**: Modelos predictivos para la predicción de churn en clientes. [Ver más](#)
 - **Deep Learning**: Modelos de clasificación con Keras. [Ver más](#)
 
-
-Si tienes preguntas o comentarios, no dudes en [contactarme](/contact.md).
-
-[Descargar CV](link-a-tu-cv.pdf) |
+[Ver más sobre mí](/about.html)
