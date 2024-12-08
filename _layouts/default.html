@@ -13,10 +13,10 @@
         <h1>{{ site.title }}</h1>
     </header>
     <nav>
-        <a href="/">Inicio</a>
-        <a href="/about.html">Acerca de</a>
-        <a href="/projects.html">Proyectos</a>
-        <a href="/contact.html">Contacto</a>
+        <a href="{{ site.baseurl }}/index.html">Inicio</a>
+        <a href="{{ site.baseurl }}/about.html">Acerca de</a>
+        <a href="{{ site.baseurl }}/projects.html">Proyectos</a>
+        <a href="{{ site.baseurl }}/contact.html">Contacto</a>
     </nav>
     <main>
         {{ content }}
