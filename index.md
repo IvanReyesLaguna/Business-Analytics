@@ -3,9 +3,7 @@
 layout: default
 title: Inicio
 ---
-
-![Imagen de Cabecera](/assets/header-image.jpg){: .header-image }
-
+![Imagen de Cabecera](/Business-Analytics/assets/header-image.jpg)
 # Bienvenido a Mi Portfolio como Profesional de Análisis de Datos
 
 ¡Hola! Soy Iván, un apasionado analista con experiencia en extraer insights significativos de grandes volúmenes de datos. Especializandome en aspectos técnicos tan necesarios como herramientas para mi pensamiento critíco de negocio desarrollado con mi experiencia en negocio.
