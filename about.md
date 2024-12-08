@@ -3,6 +3,9 @@ layout: default
 title: Acerca de
 ---
 
-Soy un analista de datos con amplia experiencia...
+## Acerca de Mí
 
-[Ver mis proyectos](/projects.html)
+Soy un apasionado analista de datos con experiencia en...
+
+[Ver mis proyectos]({{ '/projects.html' | prepend: site.baseurl }}){: .button }
+
