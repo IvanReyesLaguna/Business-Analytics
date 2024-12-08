@@ -1,0 +1,6 @@
+.header-image {
+    width: 100%;    /* Hace que la imagen ocupe el 100% del ancho del contenedor */
+    height: auto;   /* Mantiene la proporción de la imagen */
+    display: block; /* Asegura que no haya espacio extra alrededor de la imagen */
+    margin: 0 auto; /* Centra la imagen si es necesario */
+}
